@@ -10,7 +10,8 @@ const Hero = () => {
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
-        backgroundAttachment: 'fixed'
+        // Remove fixed attachment for better mobile experience
+        backgroundAttachment: 'scroll'
       }}
     >
       <div className="container mx-auto px-6 relative z-10">
