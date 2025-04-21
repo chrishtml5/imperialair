@@ -30,10 +30,6 @@ export default {
         sans: ['Inter', 'sans-serif'],
         heading: ['Montserrat', 'sans-serif'],
       },
-      backgroundImage: {
-        'hero-pattern': "linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.pexels.com/photos/4489748/pexels-photo-4489748.jpeg')",
-        'about-pattern': "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.pexels.com/photos/4195342/pexels-photo-4195342.jpeg')",
-      },
     },
   },
   plugins: [],
